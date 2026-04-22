@@ -1,0 +1,9 @@
+{
+  "N": 2693,
+  "residual_mean": -0.003612268852303066,
+  "residual_std": 0.1328641449181414,
+  "residual_rms": 0.1329132404656895,
+  "crossover_theta": 0.6931471805599453,
+  "crossover_g_over_a0": 0.4804530139182014,
+  "n_BE_at_crossover": 1.0
+}
