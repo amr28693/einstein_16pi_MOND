@@ -18,10 +18,7 @@ def fig_A(out_path="R_i_total_curvature.png"):
     X, Y = np.meshgrid(x, y)
 
     real_curvature = np.exp(-(X**2 + Y**2))
-    theta_field = np.arctan2(Y, X)
-    dtheta_dx = np.gradient(theta_field, axis=1)
-    dtheta_dy = np.gradient(theta_field, axis=0)
-    imag_curvature = dtheta_dx**2 + dtheta_dy**2
+    imag_curvature = np.arctan2(Y, X)
     total_magnitude = np.sqrt(real_curvature**2 + imag_curvature**2)
 
     fig = plt.figure(figsize=(18, 5))
