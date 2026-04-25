@@ -2,7 +2,7 @@
 
 Reproduction code and data for:
 
-> Rodriguez, Anderson M. (2026). *The MOND Interpolation Function as a Bose–Einstein Partition Function over Gravitational Entropy Modes: A Complexified Extension of the Einstein–Hilbert Action.* Submitted to *Entropy* (MDPI). DOI (preprint): 10.5281/zenodo.19695179 
+> Rodriguez, Anderson M. (2026). *Bose-Einstein statistics of the radial acceleration relation* Submitted to *PLOS One*. DOI (preprint): 10.5281/zenodo.19695179 
 
 ---
 
@@ -100,9 +100,7 @@ Please cite Lelli et al. (2017) if you use this dataset.
 If you use this code or reproduce these results, please cite:
 
 ```
-Rodriguez, A.M. (2026). The MOND Interpolation Function as a Bose–Einstein 
-Partition Function over Gravitational Entropy Modes: A Complexified Extension 
-of the Einstein–Hilbert Action. Entropy (MDPI). DOI: [pending]
+Rodriguez, A.M. (2026). Bose-Einstein statistics of the radial acceleration relation. *submitted* DOI: [pending]
 ```
 
 ---
